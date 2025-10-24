@@ -1,0 +1,11 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"] # <-- CHANGE THIS
+description = "A simple number guessing game written in Rust."
+license = "MIT"
+repository = "https://github.com/your-username/guessing_game" # <-- CHANGE THIS
+
+[dependencies]
+rand = "0.8.5"
